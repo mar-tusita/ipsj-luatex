@@ -2,7 +2,7 @@
 
 This is an IPSJ Journal class file for LuaTeX based on jlreq, written using expl3. The original `ipsj-luatex.cls` file is available at <https://github.com/attgm/ipsj-luatex>.
 
-No modifications have been made to the original file at this time. Since the original files are licensed under the Apache License, Version 2.0, this file is distributed under the same license. See the LICENSE file for details
+No modifications have been made to the original file at this time. Since the original files are licensed under the Apache License, Version 2.0, this file is distributed under the same license. See the LICENSE file for details.
 
 For details on how this class file is implemented, see <https://zenn.dev/attgm/articles/8b963d13e6262b>.
 
